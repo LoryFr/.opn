@@ -13,10 +13,22 @@
       "type": "list",
       "items": [
         {
+          "title": "Typable Studio",
+          "description": "Founder",
+          "url": "https://typable.studio",
+          "date": "2026–Present"
+        },
+        {
+          "title": "ITS Angelo Rizzoli",
+          "description": "Videographer",
+          "url": "https://itsrizzoli.it",
+          "date": "2026–Present"
+        },
+        {
           "title": "Stratego Group",
           "description": "Videographer",
           "url": "https://strategogroup.net",
-          "date": "2025–Present"
+          "date": "2026–Present"
         }
       ]
     },
